@@ -13,5 +13,5 @@ Using the Spotify data set, conduct an analysis to find trends and key informati
 
 2: Using the Health data set, conduct an analysis to find trends and key information that could be used by an organisation for future support.  
 
+![myimage](https://github.com/alfiesparkss/Tableau-/blob/main/continent%20cancer%20rates.png "cancer rates 199-0")
 ![myimage](
-
